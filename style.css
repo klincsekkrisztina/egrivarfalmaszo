@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(51, 51, 51);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h1{
+  text-align: left;
+}
+
+.jumbotron {
+  background-color: rgb(255, 204, 102);
+  text-align: justify;
+    text-justify: inter-word;
+}
+
+.page-header {
+  color: rgb(255, 204, 102);
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.heading{
+  color: rgb(255, 204, 102);
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.paragraph {
+  color: rgb(255, 204, 102);
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.well  {
+  background-color: rgb(255, 204, 102);
+  border-color: rgb(255, 204, 102);
+}
+
